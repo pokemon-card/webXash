@@ -8,6 +8,10 @@ const zipList = [
     packageName: "uplink.zip",
   },
   {
+    name: "Half-Life",
+    packageName: "hl.zip",
+  },
+  {
     name: "Day One (78M)",
     packageName: "dayone.zip",
   },
